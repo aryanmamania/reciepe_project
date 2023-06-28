@@ -1,5 +1,5 @@
-const YOUR_APP_ID = "3a351d9e"
-const YOUR_APP_KEY = "0279f7c59b1a33b8c2f935dd21f67575"
+const YOUR_APP_ID = ""
+const YOUR_APP_KEY = ""
 
 
 
